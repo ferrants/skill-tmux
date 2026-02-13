@@ -1,0 +1,11 @@
+{
+  "name": "tmux",
+  "version": "1.0.0",
+  "description": "Skill for remote-controlling tmux sessions — send keystrokes, capture pane output, and drive interactive CLIs.",
+  "author": {
+    "name": "Matt Ferrante"
+  },
+  "repository": "https://github.com/ferrants/skill-tmux",
+  "license": "MIT",
+  "keywords": ["tmux", "terminal", "interactive", "cli"]
+}
