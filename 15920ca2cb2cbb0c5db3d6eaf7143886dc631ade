@@ -1,0 +1,23 @@
+README.md
+  2aa54165ea2b17ee 7-8,13-22
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.8",
+  "base_commit_sha": "15920ca2cb2cbb0c5db3d6eaf7143886dc631ade",
+  "prompts": {
+    "2aa54165ea2b17ee": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "128cb0e6-8e5f-4da9-b7f0-0a0f350b0614",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Matt Ferrante <matt@heyferrante.com>",
+      "messages": [],
+      "total_additions": 12,
+      "total_deletions": 4,
+      "accepted_lines": 12,
+      "overriden_lines": 0
+    }
+  }
+}
