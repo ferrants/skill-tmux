@@ -4,14 +4,22 @@ A [Claude Code plugin](https://code.claude.com/docs/en/plugins) that teaches Cla
 
 ## Install
 
-```bash
-claude plugin install tmux --url https://github.com/ferrants/skill-tmux
+```sh
+npx skills add ferrants/skill-tmux
 ```
 
 Or for a specific project only:
 
-```bash
-claude plugin install tmux --url https://github.com/ferrants/skill-tmux --scope project
+```sh
+npx skills add ferrants/skill-tmux --scope project
+```
+
+### Customize it
+
+Clone the repo and ask your AI coding tool to tailor the skill to your specific workflows:
+
+```sh
+git clone https://github.com/ferrants/skill-tmux.git
 ```
 
 ## What it does
